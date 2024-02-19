@@ -1,27 +1,41 @@
-<h1 align="center">Hi 👋, I'm Maciej Stempniak</h1>
-<h3 align="center">A passionate Python developer from Poland</h3>
+<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ferrisofficial&label=Profile%20views&color=0e75b6&style=flat" alt="ferrisofficial" /> </p>
+### :woman_technologist: &nbsp;About Me :
 
-- 🌱 I’m currently learning **Python 3.12**
+I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
 
+- 🔭 I study at the University of Wrocław.
+- 🌱 Exploring Python 3.12.
+- ⚡ In my free time I solve problems on LeetCode and Codeforces.
 - 📫 How to reach me **maciek.n.stempniak@gmail.com**
 
-<div style="text-align: left;"> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-    <span style="margin-right: 10px;"></span> <!-- Space -->
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <span style="margin-right: 10px;"></span> <!-- Space -->
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <span style="margin-right: 10px;"></span> <!-- Space -->
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-    <span style="margin-right: 10px;"></span> <!-- Space -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <span style="margin-right: 10px;"></span> <!-- Space -->
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <span style="margin-right: 10px;"></span> <!-- Space -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</div>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferrisofficial&" alt="ferrisofficial" /></p>
+### 🛠 &nbsp;Languages and Tools :
 
+<p>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
+    title="Bash" alt="bash" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
+    title="C++" alt="cplusplus" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="40" height="40"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" 
+    title="Google Cloud" alt="googlecloud" width="40" height="40"/>&nbsp;
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
+    title="Git" alt="git" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+    title="Linux" alt="linux" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+    title="Python" alt="python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" \*\*alt="Git" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+### 🔥 &nbsp; My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FerrisOfficial&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerrisOfficial&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
