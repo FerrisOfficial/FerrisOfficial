@@ -1,32 +1,87 @@
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+# 👋 Hi, I'm Maciek
 
-### :woman_technologist: &nbsp;About Me :
+### 💻 Software Engineer (C++ & Python)
 
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Poland.
+I am a **Software Engineer with a degree in Computer Science (B.Eng.)**, specializing in building efficient, scalable, and well‑structured backend systems using C++ and Python.
 
-- 🔭 I study at the University of Wrocław.
-- 🌱 Exploring Python 3.12.
-- ⚡ In my free time I solve problems on LeetCode and Codeforces.
-- 📫 How to reach me **maciek.n.stempniak@gmail.com**
+I enjoy solving algorithmic problems, designing clean architectures, and continuously improving my engineering skills through practical development and competitive programming.
 
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+## 🚀 About Me
 
-<p>
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" 
-    title="Bash" alt="bash" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-    title="C++" alt="cplusplus" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="docker" width="40" height="40"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" 
-    title="Google Cloud" alt="googlecloud" width="40" height="40"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" 
-    title="Git" alt="git" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
-    title="Linux" alt="linux" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-    title="Python" alt="python" width="40" height="40"/>&nbsp;
-</p>
+- 🎓 **B.Eng. in Computer Science**
+- 🧩 C++ & Python Developer focused on modern Python (3.12+)
+- ⚙️ Interested in backend development & system design
+- 🧠 Regularly solving algorithmic problems
+- 🏁 Active on competitive programming platforms
+- 🐧 Linux enthusiast
 
 ---
+
+## 🛠️ Technical Skills
+
+### Languages
+- C
+- C++20
+- Python
+
+### Build & Tooling
+- CMake
+- Make
+- Git
+- Docker
+
+### Development Environment
+- Linux
+- VS Code
+
+### Debugging & Testing
+- GDB
+- Valgrind
+- GoogleTest
+- pytest
+
+### Collaboration
+- GitHub
+- Jira
+
+### Core Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Multithreading / Concurrency
+- Memory Management
+- Debugging & Performance Optimization
+
+---
+
+## 🧩 Engineering Interests
+
+- Backend Development
+- Algorithms & Data Structures
+- Performance Optimization
+- Clean Code & Software Architecture
+- Automation & DevOps
+
+---
+
+## 📈 Competitive Programming
+
+In my free time, I actively develop my problem‑solving skills by participating in:
+
+- LeetCode
+- Codeforces
+
+---
+
+## 📫 Contact
+
+📧 **Email:** maciek.n.stempniak@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/stempniak-maciej/
+
+---
+
+## ⚡ Motto
+
+> "First, solve the problem. Then, write the code." – John Johnson
+
