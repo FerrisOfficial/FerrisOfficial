@@ -1,87 +1,50 @@
-# 👋 Hi, I'm Maciek
+# Maciej Stempniak
 
-### 💻 Software Engineer (C++ & Python)
+**Backend & Systems Engineer — C++ and .NET**
 
-I am a **Software Engineer with a degree in Computer Science (B.Eng.)**, specializing in building efficient, scalable, and well‑structured backend systems using C++ and Python.
+I build production backend and systems software across C++, C#/.NET and Python. I currently work on KSeF backend services at Symfonia; previously, I shipped C++20 features for Nokia's 5G RAN software.
 
-I enjoy solving algorithmic problems, designing clean architectures, and continuously improving my engineering skills through practical development and competitive programming.
+Based in Warsaw, Poland. EU citizen, open to relocation across the EU.
 
----
+## Experience
 
-## 🚀 About Me
+**Symfonia — .NET Backend Developer**  
+Developing and debugging C#/.NET backend services and GraphQL APIs for Poland's national e-invoicing platform. My work includes KSeF API integration, SQL persistence, automated tests, production investigation and policy-enforced workflows using technologies including Hangfire, Dapr, Kubernetes and OPA.
 
-- 🎓 **B.Eng. in Computer Science**
-- 🧩 C++ & Python Developer focused on modern Python (3.12+)
-- ⚙️ Interested in backend development & system design
-- 🧠 Regularly solving algorithmic problems
-- 🏁 Active on competitive programming platforms
-- 🐧 Linux enthusiast
+**Nokia — C++ Software Engineering, 5G RAN**  
+Joined as a summer trainee and was selected to continue with the team on a contract. Developed and validated C++20 decision logic for temperature-aware cell activation, traffic control and energy management in 5G base stations, using Linux, Clang, GDB, Valgrind, Git and Gerrit.
 
----
+## Selected work
 
-## 🛠️ Technical Skills
+### [Two-Player Catan Research Engine & AI](https://github.com/FerrisOfficial/CatanAPI)
 
-### Languages
-- C
-- C++20
-- Python
+A co-authored C++20 research engine for reproducible two-player Catan tournaments and game-AI experiments.
 
-### Build & Tooling
-- CMake
-- Make
-- Git
-- Docker
+- Bit-packed fixed board state under 800 bytes, with apply/undo transitions instead of complete-board copies
+- 250–300 random-vs-random games per second in a representative native Clang 22 `-O3` build
+- 242 generated test cases across six binaries, with GCC, MSVC, Clang and AddressSanitizer CI
+- 13 native agents spanning deterministic heuristics, chance-aware alpha-beta and evolutionarily tuned evaluation
+- [Live WebAssembly demo](https://maciejstempniak.com/#catan-demo) and [engineering notes](https://github.com/FerrisOfficial/CatanAPI#why-the-engine-matters-more-than-the-agents)
 
-### Development Environment
-- Linux
-- VS Code
+### [Bot Arena](https://github.com/BartoszKruszewski/bot-arena)
 
-### Debugging & Testing
-- GDB
-- Valgrind
-- GoogleTest
-- pytest
+A co-developed Python environment for programming-game tournaments. I implemented the game logic, map generation, bot interface and packaging, process timeout enforcement, structured match logs and move-by-move replay.
 
-### Collaboration
-- GitHub
-- Jira
+### [SpaceX Launch Data API](https://github.com/FerrisOfficial/dotnet-public-api-weaver)
 
-### Core Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Multithreading / Concurrency
-- Memory Management
-- Debugging & Performance Optimization
+A compact .NET 10 Minimal API demonstrating idempotent external-data imports, EF Core/SQLite persistence, bounded parameters, cancellation propagation and automated unit and end-to-end tests.
 
----
+## Core toolkit
 
-## 🧩 Engineering Interests
+- **Languages:** C++20, C#/.NET, Python
+- **Backend:** GraphQL, REST APIs, SQL, EF Core, Hangfire, Dapr, OPA
+- **Systems and delivery:** Linux, CMake, GDB, Valgrind, Docker, Kubernetes, CI
+- **Testing:** GoogleTest, xUnit, pytest, sanitizers and multi-compiler builds
 
-- Backend Development
-- Algorithms & Data Structures
-- Performance Optimization
-- Clean Code & Software Architecture
-- Automation & DevOps
+## Background
 
----
+B.Eng. in Computer Science from the University of Wrocław. My bachelor thesis focused on the Catan research engine above and received a grade of 5/5.
 
-## 📈 Competitive Programming
+## Contact
 
-In my free time, I actively develop my problem‑solving skills by participating in:
-
-- LeetCode
-- Codeforces
-
----
-
-## 📫 Contact
-
-📧 **Email:** maciek.n.stempniak@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/stempniak-maciej/
-
----
-
-## ⚡ Motto
-
-> "First, solve the problem. Then, write the code." – John Johnson
-
+[Portfolio](https://maciejstempniak.com) · [LinkedIn](https://www.linkedin.com/in/stempniak-maciej/) · [Email](mailto:maciek.m.stempniak@gmail.com)
